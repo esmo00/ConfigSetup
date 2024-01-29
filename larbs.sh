@@ -15,7 +15,7 @@ esac done
 
 # DEFAULTS:
 [ -z "$dotfilesrepo" ] && dotfilesrepo="https://github.com/esmo00/brownrice.git"
-[ -z "$progsfile" ] && progsfile="https://raw.githubusercontent.com/esmo00/ConfigSetup/i3Config/progs.csv"
+[ -z "$progsfile" ] && progsfile="https://raw.githubusercontent.com/Greeenstone/ConfigSetup/i3Config/progs.csv"
 [ -z "$aurhelper" ] && aurhelper="yay"
 
 ### FUNCTIONS ###
